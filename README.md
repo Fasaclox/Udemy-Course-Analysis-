@@ -3,7 +3,7 @@
 The project involves the analysis of Udemy course data spanning the years 2011 to 2017. The focus is on understanding the distribution of courses across various segments and learning levels, as well as examining key metrics such as subscriber counts and revenue generated from paid courses. The analysis will delve into trends over time, categorizing courses based on segments (e.g., technology, business, arts) and learning levels (e.g., beginner, intermediate, advanced). Additionally, it will scrutinize the growth patterns of subscribers and the financial performance associated with paid courses. The ultimate goal is to derive insights into the dynamics of Udemy's course offerings, their popularity, and the financial success of paid content during the specified timeframe.
 
 **Goals:**
-1. **Segment and Learning Level Distribution:** Understand how Udemy courses are distributed across various segments (e.g., technology, business, arts) and learning levels (e.g., beginner, intermediate, advanced).
+1. **Segment and Learning Level Distribution:** Understand how Udemy courses are distributed across various segments (e.g., finance, business) and learning levels (e.g., all, beginner, intermediate, expert).
 
 2. **Key Metrics Analysis:** Examine key metrics, including subscriber counts and revenue generated from paid courses. Identify patterns and variations in these metrics over the specified timeframe.
 
